@@ -2,6 +2,10 @@
 
 [在线阅读](https://ahaknow.com/posts/know/latex/)
 
+[两年前的版本](README.md)，说来惭愧，当时Push完就没再管了，这次重新整理了一下，助人也助己，希望对大家有所帮助~
+
+---
+
 # 📘 **LaTeX 语法**
 ## **📐 1. LaTeX 数学模式**
 

@@ -1,6 +1,6 @@
 # ✨ LaTeX 数学公式语法大全 2.0 📘
 
-[在线阅读](https://ahaknow.com/posts/know/latex/)
+[在线阅读](https://ahaknow.com/posts/aiknow/latex/)
 
 [两年前的版本](OldVersion.md)，说来惭愧，当时Push完就没再管了，这次重新整理了一下，助人也助己，希望对大家有所帮助~
 
